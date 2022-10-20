@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define PI 3.14159
+#define PI 3.14159 //variable
 int main ()
 {
     double area=0, radius=0, circumferance=0;
